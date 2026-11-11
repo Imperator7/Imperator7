@@ -1,35 +1,16 @@
-<p align="center">
-  <a href="https://www.credly.com/badges/97d33890-d257-4e96-8ad2-8fe6bfccc477/public_url">
-    <img src="https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/aws-certified-solutions-architect-associate.png" width="125" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-</p>
+<a href="https://www.credly.com/badges/97d33890-d257-4e96-8ad2-8fe6bfccc477/public_url">
+  <img align="right" src="https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/aws-certified-solutions-architect-associate.png" width="105" alt="AWS Certified Solutions Architect – Associate — verify on Credly" />
+</a>
 
-<p align="center">
-  <strong>AWS Certified Solutions Architect – Associate</strong><br />
-  <sub>Cloud infrastructure · Automation · Reliability</sub>
-</p>
+### Hey, I'm Ball 👋
 
-<p align="center">
-  <strong>Portfolio: <a href="https://rungroj.dev">rungroj.dev ↗</a></strong>
-  &nbsp; · &nbsp;
-  <a href="mailto:rungrojr.ball@gmail.com">Email me</a>
-</p>
+From civil engineering to building in the cloud.
 
----
+🌐 **Portfolio: [rungroj.dev](https://rungroj.dev)**  
+✉️ [Let's connect](mailto:rungrojr.ball@gmail.com)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,bash,python,postgres&perline=8" alt="AWS, Terraform, Docker, GitHub Actions, Linux, Bash, Python, PostgreSQL" height="42" />
-</p>
+<br clear="right" />
 
-<p align="center">
-  <sub>AWS &nbsp; · &nbsp; Terraform &nbsp; · &nbsp; Docker &nbsp; · &nbsp; GitHub Actions &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Bash &nbsp; · &nbsp; Python &nbsp; · &nbsp; PostgreSQL</sub>
-</p>
-
-<p align="center">
-  <strong>Learning</strong><br />
-  CloudOps &nbsp; · &nbsp; Linux &nbsp; · &nbsp; SRE & observability
-</p>
-
-<p align="center">
-  <sub>Open to junior Cloud Engineer & DevOps opportunities · Bangkok, Thailand</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,bash,python,postgres&perline=8" height="38" alt="Tools I work with: AWS, Terraform, Docker, GitHub Actions, Linux, Bash, Python and PostgreSQL" />
 </p>
