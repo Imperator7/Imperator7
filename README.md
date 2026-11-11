@@ -1,27 +1,35 @@
-<div align="center">
+<p align="center">
+  <a href="https://www.credly.com/badges/97d33890-d257-4e96-8ad2-8fe6bfccc477/public_url">
+    <img src="https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/aws-certified-solutions-architect-associate.png" width="125" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+</p>
 
-**🌐 Portfolio: [rungroj.dev](https://rungroj.dev)**  
-**✉️ Contact: [rungrojr.ball@gmail.com](mailto:rungrojr.ball@gmail.com)**
+<p align="center">
+  <strong>AWS Certified Solutions Architect – Associate</strong><br />
+  <sub>Cloud infrastructure · Automation · Reliability</sub>
+</p>
 
-<a href="https://www.credly.com/badges/97d33890-d257-4e96-8ad2-8fe6bfccc477/public_url">
-  <img src="https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/aws-certified-solutions-architect-associate.png" width="145" alt="AWS Certified Solutions Architect – Associate — verify on Credly" />
-</a>
+<p align="center">
+  <strong>Portfolio: <a href="https://rungroj.dev">rungroj.dev ↗</a></strong>
+  &nbsp; · &nbsp;
+  <a href="mailto:rungrojr.ball@gmail.com">Email me</a>
+</p>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+---
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,bash,python,postgres&perline=8" alt="AWS, Terraform, Docker, GitHub Actions, Linux, Bash, Python, PostgreSQL" height="42" />
+</p>
 
-### Projects
+<p align="center">
+  <sub>AWS &nbsp; · &nbsp; Terraform &nbsp; · &nbsp; Docker &nbsp; · &nbsp; GitHub Actions &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Bash &nbsp; · &nbsp; Python &nbsp; · &nbsp; PostgreSQL</sub>
+</p>
 
-| 🎬 Movie Ticketing | 🌐 Portfolio & Serverless API |
-| :--- | :--- |
-| [![Movie Ticketing screenshot](https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/movie-ticketing-seats.png)](https://github.com/Imperator7/Movie-ticketing) | [![Portfolio screenshot](https://raw.githubusercontent.com/Imperator7/portfolio-next/main/frontend/public/picture/portfolio.png)](https://rungroj.dev) |
-| Containerized booking app with Terraform, CI/CD, auto scaling, and monitoring. | Next.js portfolio with an event-driven AWS contact API. |
-| **ECS Fargate · RDS · ALB · Terraform** | **API Gateway · Lambda · DynamoDB · SES** |
-| [View code →](https://github.com/Imperator7/Movie-ticketing) · Hosted demo paused | [Visit rungroj.dev →](https://rungroj.dev) · [View code →](https://github.com/Imperator7/portfolio-next) |
+<p align="center">
+  <strong>Learning</strong><br />
+  CloudOps &nbsp; · &nbsp; Linux &nbsp; · &nbsp; SRE & observability
+</p>
 
-**Currently learning:** CloudOps · Linux · SRE
+<p align="center">
+  <sub>Open to junior Cloud Engineer & DevOps opportunities · Bangkok, Thailand</sub>
+</p>
